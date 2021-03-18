@@ -7,7 +7,7 @@ export function seedDatabase(firebase) {
       });
     }
   
-    /* Series
+    /* Series///
       ============================================ */
     // Documentaries
     firebase.firestore().collection('series').add({
