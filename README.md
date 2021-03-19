@@ -20,5 +20,11 @@ A fully functional clone of the netxflix built using React, React Router, Styled
 
 ### How to use?
 In order to use this project you need to first clone this repository. Once you have cloned the repo I will recommend you to follow below process.
-* Create another react app folder this isn't necessary but I will recommend to do so. And then type.
-```npx create-react-app netflix```
+* Create another react app folder this isn't necessary but I will recommend to do so. And then type ```npx create-react-app netflix```
+* Once app is succesfully created you need to start you react-app to see live changes in browser. Type ```npm start```
+* Now youu might need to install some other packages like styled-components and react-router-dom. To do this execute below commands.
+
+```
+npm install --save react-router-dom
+npm install --save styled-components
+```
