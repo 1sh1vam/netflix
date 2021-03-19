@@ -1,7 +1,7 @@
 # Netflix Clone using React.
 
 A fully functional clone of the netxflix built using React, React Router, Styled Components and Firebase.
-![Click Here]("https://netflix-bd20d.web.app/") to check the demo.
+[Click Here](https://netflix-bd20d.web.app/) to check the demo.
 
 ### Technolgies used
 
