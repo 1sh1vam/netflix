@@ -3,7 +3,7 @@
 A fully functional clone of the netxflix built using React, React Router, Styled Components and Firebase.
 [Click Here](https://netflix-bd20d.web.app/) to check the demo.
 
-### Technolgies used
+### Tools used
 
 * React 17+
 * Styled Components
@@ -17,3 +17,8 @@ A fully functional clone of the netxflix built using React, React Router, Styled
 
 ### Sample Layout
 ![layout](https://github.com/1sh1vam/netflix/blob/main/images/Screenshot_2021-03-14%20Netflix%20India%20%E2%80%93%20Watch%20TV%20Shows%20Online%2C%20Watch%20Movies%20Online.png)
+
+### How to use?
+In order to use this project you need to first clone this repository. Once you have cloned the repo I will recommend you to follow below process.
+* Create another react app folder this isn't necessary but I will recommend to do so. And then type.
+```npx create-react-app netflix```
