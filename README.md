@@ -22,11 +22,6 @@ In order to use this project you need to first clone this repository. Once you h
 * Once app is succesfully cloned go to cloned repo and Type ```npm install```
 * Now run ```npm start```
 
-```
-npm install --save react-router-dom
-npm install --save styled-components
-```
-
 ### Sample Layout
 
 ![layout](https://github.com/1sh1vam/netflix/blob/main/images/Screenshot_2021-03-14%20Netflix%20India%20%E2%80%93%20Watch%20TV%20Shows%20Online%2C%20Watch%20Movies%20Online.png)
